@@ -2,7 +2,7 @@ from turtle import *
 from randomcolor import *
 
 window = Screen()
-window.bgcolor("#2f3136")
+window.bgcolor("yellow")
 
 t = Turtle()
 t.pensize(2)
@@ -88,9 +88,9 @@ t.forward(15)
 
 t.penup()
 t.left(90)
-t.forward(60)
+t.forward(70)
 t.right(90)
-t.forward(60)
+t.forward(70)
 t.right(90)
 t.left(90)
 t.forward(20)
