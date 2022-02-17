@@ -1,0 +1,7 @@
+#Pycache
+__pycache__
+
+#js things
+*.js
+node_modules
+*.json
