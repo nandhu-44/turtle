@@ -9,9 +9,8 @@ t.pensize(2)
 t.penup()
 t.back(90)
 t.forward(50)
-# t.right(90)
 t.pendown()
-#Making a 'N'
+
 t.color(randomColor())
 t.left(90)
 t.forward(20)
@@ -25,8 +24,7 @@ t.right(90)
 t.forward(20)
 t.pendown()
 
-#Making an 'A'
-# t.color(randomColor())
+
 t.right(90)
 t.forward(20)
 t.back(20)
@@ -44,10 +42,7 @@ t.left(90)
 t.pendown()
 t.right(180)
 
-# t.color(randomColor())
-# t.right(90)
-# t.back(10)
-# t.left(90)
+
 t.back(10)
 t.forward(20)
 t.right(150)
